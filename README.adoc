@@ -19,5 +19,5 @@ The starting point (tag `01-start`) is a simple Spring Boot application.  The ap
 - Feign
 - Config Server
 
-The last commit updates the projects for deployment to Pivotal Cloud Foundry, using the Spring Cloud Servies tile.
+The last commit updates the projects for deployment to Pivotal Cloud Foundry, using the Spring Cloud Services tile.
 
